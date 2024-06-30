@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1046354066910",
+    "project_id": "blocfirestore-e0a16",
+    "storage_bucket": "blocfirestore-e0a16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046354066910:android:49a85a39f1eac0e2b6f14f",
+        "android_client_info": {
+          "package_name": "com.bloc.blocfirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfVkBGc5cbzWzs3zvyItUjUhPVrUBkk3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
